@@ -4,5 +4,5 @@
     display: block;
     height: 50px;
     background: url(/img/logo.svg) no-repeat left #FFFFFF;
-    /*background-size: auto 230px;*/
+    background-size: 50px 50px;
 }
