@@ -1,0 +1,8 @@
+.navbar-brand{
+    margin: 0;
+    padding-left: 50px;
+    display: block;
+    height: 50px;
+    background: url(/img/logo.svg) no-repeat left #FFFFFF;
+    /*background-size: auto 230px;*/
+}
