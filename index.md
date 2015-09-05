@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introducción
-tagline: Supporting tagline
+tagline: Portal de Desarrollo
 ---
 {% include JB/setup %}
 
