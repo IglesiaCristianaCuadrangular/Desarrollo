@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
   <head>
     <meta charset="utf-8">
 
@@ -20,6 +20,7 @@
   </head>
 
   <body>
+    <header>
     <nav class="navbar navbar-default" role="navigation">
       <div class="container">
         <div class="navbar-header">
@@ -41,21 +42,19 @@
         </div>
       </div>
     </nav>
+    </header>
     <div class="container">
       {{ content }}
-      <hr>
-      <footer>
-        <p>
-          &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
-          <span class="pull-right text-muted">
-            powered by
-            <a href="http://dbtek.github.io/jekyll-bootstrap-3" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll-Bootstrap-3</a>
-            and <a href="http://getbootstrap.com" target="_blank">Twitter Bootstrap 3.0.3</a>
-          </span>
-        </p>
-      </footer>
     </div>
-
+    <footer class="container">
+      <p>
+        &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
+        <span class="pull-right text-muted">
+          <a href="http://fecuadrangular.com" target="_blank" title="Federación Iglesia Internacional del Evangelio Cuadrangular de Venezuela.">Federación Iglesia Internacional del Evangelio Cuadrangular de Venezuela.</a>
+          y <a href="http://www.foursquare.org/" target="_blank">The Foursquare Church</a>
+        </span>
+      </p>
+    </footer>
     {% include JB/analytics %}
     <script src="{{ ASSET_PATH }}/resources/jquery/jquery.min.js"></script>
     <script src="{{ ASSET_PATH }}/resources/bootstrap/js/bootstrap.min.js"></script>
