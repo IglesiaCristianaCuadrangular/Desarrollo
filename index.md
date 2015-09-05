@@ -15,10 +15,3 @@ Si usted desea colaborar en el desarrollo del portal, sírvase replicar (FORK) c
 La Iglesia Cristiana Cuadrangular de Venezuela, es muy grande, a la federación pertenecen mas de 215 Iglesias en distribuidas en 10 distritos en toda Venezuela, con más de 25.774 Miembros activos.
 
 Mantener el contenido de tantas iglesias y el uso de recursos útiles que competen a todos se hace difícil sin herramientas de integración, y una plataforma de relación de contenidos; Por esta razón estamos desarrollando aplicaciones y herramientas colaborativas, tanto sindicadas como independientes para el desarrollo tecnológico de las iglesias pertenecientes a la federación.
-
-### Portales en Desarrollo.
-
-* [Iglesia Cristiana Cuadrangular de Venezuela](https://iglesiacuadrangular.com.ve).
-* [Federación de Iglesias Cuadrangulares de Venezuela](https://federacion.iglesiacuadrangular.com.ve). (Portal de prueba)
-* [Seminario Teológico Cuadrangular de Venezuela](https://setecu.iglesiacuadrangular.com.ve).
-* [Portal de Desarrollo](https://dev.iglesiacuadrangular.com.ve).
