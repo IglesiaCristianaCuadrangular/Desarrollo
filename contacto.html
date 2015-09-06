@@ -1,0 +1,46 @@
+---
+layout: page
+title: Portales
+header: Portales en desarrollo
+group: navigation
+---
+{% include JB/setup %}
+
+<form action="//formspree.io/webmaster@iglesiacuadrangular.com.ve" class="form-horizontal">
+  <input type="text" name="Portal de Desarrollo">
+  <input type="email" name="webmaster@iglesiacuadrangular.com">
+  <fieldset>
+    <legend>Legend</legend>
+    <div class="form-group">
+      <label for="nombres" class="col-lg-2 control-label">Nombres</label>
+      <div class="col-lg-10">
+        <input type="text" class="form-control" id="nombres" placeholder="Ej. Pedro Pérez">
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="telefonos" class="col-lg-2 control-label">telefonos</label>
+      <div class="col-lg-10">
+        <input type="tel" class="form-control" id="telefonos" placeholder="Ej. 0212-555-333">
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="email" class="col-lg-2 control-label">Email</label>
+      <div class="col-lg-10">
+        <input type="email" class="form-control" id="email" placeholder="Ej. pedroperez@ejemplo.com">
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="comentarios" class="col-lg-2 control-label">Comentarios</label>
+      <div class="col-lg-10">
+        <textarea class="form-control" rows="3" id="comentarios"></textarea>
+        <span class="help-block">Escriba aquí su requerimiento.</span>
+      </div>
+    </div>
+    <div class="form-group">
+      <div class="col-lg-10 col-lg-offset-2">
+        <button type="reset" class="btn btn-default">Cancelar</button>
+        <button type="submit" class="btn btn-primary">Enviar</button>
+      </div>
+    </div>
+  </fieldset>
+</form>
