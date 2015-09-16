@@ -5,6 +5,8 @@ tagline: Portal de Desarrollo
 ---
 {% include JB/setup %}
 
+> Y les dijo: «La mies a la verdad es mucha, pero los obreros pocos; por tanto, rogad al Señor de la mies que envíe obreros a su mies. Lucas 10:2
+
 Este es el portal de desarrollo del portal Iglesia Cristiana Cuadrangular de Venezuela
 Si usted desea colaborar en el desarrollo del portal, sírvase replicar (FORK) cualquiera de los repositorios en los que estamos trabajando, y una vez realizado los cambios de su aporte envíenos una solicitud para su integración (pull) y la revisaremos.
 
