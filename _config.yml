@@ -11,13 +11,14 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Iglesia Cristiana Cuadrangular de Venezuela
+title : La Iglesia Cuadrangular - Portal de Desarrolladores
 tagline: Portal de Desarrollo
 author :
   name : Portal de Desarrollo
-  email : webmaster@iglesiacuadrangular.com.ve
-  github : IglesiaCristianaCuadrangular
-  twitter : fecuadrangular
+  email : admin@laiglesiacuadrangular.com
+  github : LaIglesiaCuadrangular
+  twitter : laiglesiacuadrangular
+  instagram : laiglesiacuadrangular
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
